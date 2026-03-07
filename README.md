@@ -1,4 +1,4 @@
 # README File.
 ## Project Yet To Start.
-__italic__
-**Bold**
+_italic_
+1.**Bold**
